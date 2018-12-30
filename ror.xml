@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://penis.supply/</title>
+  <link>https://penis.supply/</link>
+
+<item>
+     <link>https://penis.supply/</link>
+     <title>Penis Token | PNS</title>
+     <description>Penis Token | PNS</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://penis.supply/about-pns.html</link>
+     <title>Behavioral Research Data Gathering - About PNS</title>
+     <description>Behavioral Research Data Gathering - About PNS</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://penis.supply/about-pns-more.html</link>
+     <title>PNS + Censorship in Crypto</title>
+     <description>PNS + Censorship in Crypto</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
